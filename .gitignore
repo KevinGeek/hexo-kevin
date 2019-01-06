@@ -6,3 +6,5 @@ node_modules/
 public/
 .deploy*/
 themes/
+themes/typography/
+themes/journal/
