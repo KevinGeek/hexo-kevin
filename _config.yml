@@ -41,9 +41,9 @@ post_asset_folder: true
 relative_link: false
 future: true
 highlight:
-  enable: false
+  enable: true
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace:
 
 # Home page setting
@@ -76,6 +76,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
+# theme: yilia
 
 
 

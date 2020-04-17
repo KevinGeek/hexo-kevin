@@ -83,7 +83,7 @@ date: 2017-02-19 18:24:50
 
 那么商家所执行的步骤可以用如下伪代码表示：
 
-```Java
+```java
 public class ProviderDeliver {
 
   public void dailyWork(Provider p, Governor g){}
@@ -114,7 +114,7 @@ public class ProviderDeliver {
 
 那么整体的流程作一下简单转换，对商户来说，流程更加简单
 
-```Java
+```java
 
 /**
  *
