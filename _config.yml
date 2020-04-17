@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 小飞侠
-subtitle:
+title: Kevin's Blog
+subtitle: Stay Foolish. Stay Hungry.
 description:
 keywords:
-author: kevin
-language: zh-CN
+author: Kevin
+language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
@@ -28,6 +28,7 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
 
+
 # Writing
 #new_post_name: :title.md # File name of new posts
 new_post_name: :year-:month-:day-:title.md
@@ -37,7 +38,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: true
+post_asset_folder: false
 relative_link: false
 future: true
 highlight:

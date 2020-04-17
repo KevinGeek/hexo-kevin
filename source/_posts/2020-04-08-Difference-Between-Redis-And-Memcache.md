@@ -2,7 +2,7 @@
 title: Difference Between Redis And Memcache
 date: 2020-04-08 16:02:02
 categories:
-  - 技术
+  - tech
 tags:
   - In-Memory Data Storage Systems
 ---

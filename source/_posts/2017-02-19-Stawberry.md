@@ -4,7 +4,7 @@ tags:
   - Algorithm
   - 分布式
 categories:
-  - 日常
+  - normal
 date: 2017-02-19 18:24:50
 ---
 
